@@ -1,3 +1,5 @@
 clone repository
 run "npm -i"
 ng serve
+
+Coulnd't finish project in time - wanted to create a photo gallery. Also I don't know how to connect separate backend and front end folders so I combined them in this repository.
